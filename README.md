@@ -1,3 +1,5 @@
+![Logo Obramax](https://d27vawk0lzy7cb.cloudfront.net/logo/stores/3/logo-obramax.png) 
+
 # FreteValidate
 
 Como executar o projeto (localmente):
