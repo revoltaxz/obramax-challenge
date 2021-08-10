@@ -1,0 +1,42 @@
+[
+  {
+      "incompatibilities": [],
+      "method": "Retirada em loja agendada",
+      "valid": true
+  },
+  {
+      "incompatibilities": [],
+      "method": "Retirada em loja",
+      "valid": true
+  },
+  {
+      "incompatibilities": [],
+      "method": "Entrega normal agendada SP",
+      "valid": true
+  },
+  {
+      "incompatibilities": [],
+      "method": "Entrega normal BR",
+      "valid": true
+  },
+  {
+      "incompatibilities": [],
+      "method": "Entrega normal RJ (expressa)",
+      "valid": true
+  },
+  {
+      "incompatibilities": [],
+      "method": "Entrega normal RJ",
+      "valid": true
+  },
+  {
+      "incompatibilities": [],
+      "method": "Entrega normal SP (frete grátis)",
+      "valid": true
+  },
+  {
+      "incompatibilities": [],
+      "method": "Entrega normal SP",
+      "valid": true
+  }
+]
