@@ -4,8 +4,7 @@ FROM elixir:1.11.3-alpine
 RUN apk add --no-cache \
   make \
   gcc \
-  libc-dev \
-  argon2
+  libc-dev
 
 WORKDIR /app
 
